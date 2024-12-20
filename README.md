@@ -10,4 +10,4 @@ Besides all the additional features that need to be implemented according to the
 - Bombs subtract lives, not points
 - Points and lives not showing up while in the menu
 
-Playable build here: <link>https://play.unity.com/mg/other/webgl-builds-320119/</link>
+Playable build here: <link>[https://play.unity.com/mg/other/webgl-builds-320119/](https://play.unity.com/en/games/3105b3d1-923a-4abd-afd7-eab7a6fe5247/veggie-slicer)</link>
